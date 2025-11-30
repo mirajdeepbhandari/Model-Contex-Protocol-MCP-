@@ -1,0 +1,19 @@
+[project]
+name = "presentation-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aiosqlite>=0.21.0",
+    "fastmcp>=2.13.1",
+    "jupyter>=1.1.1",
+    "langchain>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-google-genai>=3.2.0",
+    "loguru>=0.7.3",
+    "pinecone>=8.0.0",
+    "pydantic-settings>=2.12.0",
+    "pypdf>=6.4.0",
+    "strands-agents>=1.18.0",
+]

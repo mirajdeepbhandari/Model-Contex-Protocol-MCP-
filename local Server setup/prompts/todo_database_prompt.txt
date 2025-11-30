@@ -1,0 +1,4 @@
+For every CRUD operation performed on the database, 
+you must return and display the updated list of data
+so the user can immediately see the changes. 
+This is mandatory.

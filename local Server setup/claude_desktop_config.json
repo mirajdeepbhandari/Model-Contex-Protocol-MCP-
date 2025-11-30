@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "MYSERVER": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:\\presentation_mcp",
+        "fastmcp",
+        "run",
+        "server.py"
+      ],
+      "env": {
+        "SERVER_NAME": "",
+        "VERSION": "",
+        "HOST": "",
+        "PORT": "",
+        "EMBEDDINGS_MODEL": "",
+        "GOOGLE_API_KEY": "",
+        "PINECONE_API_KEY": "",
+        "INDEX_NAME": "",
+        "NAME_SPACE": "",
+        "VERFIFIED_EMAIL":""
+      }
+    }
+  }
+}
